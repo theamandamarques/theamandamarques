@@ -49,15 +49,6 @@ Figma · Canva
 
 ---
 
-<div align="center">
-
-<img src="https://w0.peakpx.com/wallpaper/116/452/HD-wallpaper-pink-earth-fluid-galaxy-geoglyser-beautiful-blue-cosmo-cosmos-dreamy-green-orange-planet-planet-earth-solar-system-space-stars.jpg" width="48%" alt="Galáxia colorida" />
-<img src="https://wallpaperbat.com/img/109958609-galaxy-ai.jpg" width="48%" alt="Galáxia psicodélica" />
-
-</div>
-
----
-
 ## 📌 Projetos
 
 - 🚀 **Valinor** — aplicação web

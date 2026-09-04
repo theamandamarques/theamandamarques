@@ -10,24 +10,17 @@
 
 ## 👋 Oi, eu sou a Amanda
 
-<table>
-<tr>
-<td width="68%" valign="top">
+Desenvolvedora de software apaixonada por **tecnologia, criação e resolução de problemas**.
 
-Sou desenvolvedora de software e gosto de trabalhar em diferentes partes de um sistema — **interfaces, APIs, bancos de dados, integrações, automações e infraestrutura**.
+Atuo no desenvolvimento de aplicações e sistemas, transitando entre **frontend, backend, APIs, bancos de dados, automações e integrações**.
 
-Minha experiência vai muito além de uma única stack. Já trabalhei e estudo tecnologias como **Angular, React, JavaScript, TypeScript, Node.js, NestJS, TypeORM, MySQL, PostgreSQL, Supabase, Docker, N8N, APIs REST, Webhooks e ambientes Linux/VPS**.
+Gosto de transformar ideias em produtos funcionais e explorar novas tecnologias para construir soluções melhores.
 
-Também utilizo **Codex, Claude e ChatGPT** no meu processo de desenvolvimento para pesquisar, depurar, prototipar, refatorar e explorar soluções.
-
-</td>
-<td width="32%" align="center" valign="middle">
+<div align="center">
 
 <img src="./assets/download (5).jpeg" width="210" alt="Saturno" />
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -62,30 +55,52 @@ Figma · Canva
 
 ---
 
-## 📌 Projetos
+## 🚀 Projetos
 
-- 🚀 **Valinor** — aplicação web
-- 🛒 **Sistema CRUD de Vendas** — sistema de vendas e operações
-- 🌾 **CRUD Vendas Agro** — aplicação voltada ao contexto agro
-- 📊 **Painel de Administração de Dashboard** — dashboard administrativo
-- ⚡ **Landing Page da Raiden Shogun** — front-end e interface
-- 🧠 **Memory Game** — JavaScript e lógica
-- 🎛️ **CircleMenu** — componente interativo
-- 🕐 **Clock Interactive** — experiência web interativa
+<div align="center">
 
-[**→ Ver todos os projetos**](https://github.com/theamandamarques?tab=repositories)
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/theamandamarques/sistema-crud-vendas">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=theamandamarques&repo=sistema-crud-vendas&theme=github_dark&hide_border=true" width="100%" alt="Sistema CRUD de Vendas" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/theamandamarques/crud-vendas-agro">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=theamandamarques&repo=crud-vendas-agro&theme=github_dark&hide_border=true" width="100%" alt="CRUD Vendas Agro" />
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/theamandamarques/Painel-de-Administra-o-de-Dashboard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=theamandamarques&repo=Painel-de-Administra-o-de-Dashboard&theme=github_dark&hide_border=true" width="100%" alt="Painel de Administração de Dashboard" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/theamandamarques/GAMBLITZ">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=theamandamarques&repo=GAMBLITZ&theme=github_dark&hide_border=true" width="100%" alt="GAMBLITZ" />
+</a>
+</td>
+</tr>
+</table>
+
+**[→ Ver todos os projetos no GitHub](https://github.com/theamandamarques?tab=repositories)**
+
+</div>
 
 ---
 
 ## 🔌 Integrações & Sistemas
 
-Uma das áreas que mais gosto é fazer sistemas diferentes conversarem entre si:
+Gosto especialmente de fazer sistemas diferentes conversarem entre si:
 
 ```text
 API → Webhook → N8N → Sistema → Banco de Dados → Dashboard
 ```
 
-Experiência prática com integrações, autenticação, tokens, transformação de dados, webhooks, automações e resolução de problemas em APIs.
+Experiência com **APIs REST, autenticação, tokens, transformação de dados, webhooks, automações e integrações entre sistemas**.
 
 ---
 
@@ -95,7 +110,7 @@ Experiência prática com integrações, autenticação, tokens, transformação
 - ⚡ Desenvolvendo com **Angular, React, TypeScript e JavaScript**
 - 🔧 Trabalhando com **Node.js, NestJS, APIs e integrações**
 - 🔌 Explorando **automação, infraestrutura e cloud**
-- 🤖 Evoluindo meu uso de **IA no desenvolvimento** com Codex, Claude e ChatGPT
+- 🤖 Evoluindo meu uso de **IA no desenvolvimento**
 
 ---
 

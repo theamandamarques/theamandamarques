@@ -1,0 +1,29 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#050505"/>
+    <stop offset="0.55" stop-color="#101114"/>
+    <stop offset="1" stop-color="#050505"/>
+  </linearGradient>
+  <linearGradient id="line" x1="120" y1="40" x2="1080" y2="260" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#FFFFFF" stop-opacity="0"/>
+    <stop offset="0.5" stop-color="#D8D8D8" stop-opacity="0.8"/>
+    <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(950 70) rotate(130) scale(250 380)">
+    <stop stop-color="#BFC0C4" stop-opacity="0.14"/>
+    <stop offset="1" stop-color="#BFC0C4" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="300" rx="18" fill="url(#glow)"/>
+<circle cx="950" cy="72" r="72" fill="#D9D9D9" fill-opacity="0.04" filter="url(#blur)"/>
+<path d="M-30 240C180 115 310 335 510 190C710 45 820 185 1230 60" stroke="url(#line)" stroke-width="1.2"/>
+<path d="M-40 265C180 140 315 355 525 210C735 65 850 205 1240 80" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<circle cx="1040" cy="58" r="2" fill="#FFF"/><circle cx="1090" cy="102" r="1.5" fill="#FFF" opacity="0.7"/><circle cx="1000" cy="135" r="1" fill="#FFF" opacity="0.5"/>
+<text x="72" y="118" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" letter-spacing="6">AMANDA MARQUES</text>
+<text x="76" y="160" fill="#BFC0C4" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="3">SOFTWARE DEVELOPER  •  CREATIVE TECHNOLOGIST</text>
+<line x1="76" y1="190" x2="310" y2="190" stroke="#D9D9D9" stroke-opacity="0.55"/>
+<text x="76" y="222" fill="#8E9096" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2">BUILDING SYSTEMS • LEARNING • CREATING</text>
+</svg>

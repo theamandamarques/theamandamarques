@@ -35,73 +35,11 @@ Tenho interesse em unir **tecnologia, engenharia e criatividade** para transform
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css,nodejs,nestjs,express,mysql,postgres,supabase,docker,git,github,vscode,postman,linux,figma" />
+<img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css,nodejs,nestjs,express,mysql,postgres,supabase,docker,git,github,vscode,postman,linux,figma,n8n" />
 
-<br><br>
+<br>
 
-<img src="https://skillicons.dev/icons?i=n8n" />
-
-</div>
-
-**Frontend:** Angular · React · TypeScript · JavaScript · HTML5 · CSS3
-
-**Backend:** Node.js · NestJS · Express · TypeORM · APIs REST
-
-**Banco de Dados:** MySQL · PostgreSQL · Supabase
-
-**Automação & Integrações:** N8N · Webhooks · Evolution API · Bling API · Moskit CRM · Google Sheets
-
-**Infraestrutura:** Docker · Linux · Ubuntu · VPS · pfSense · OpenVPN · RDP · Nginx · Shell
-
-**Ferramentas & IA:** Git · GitHub · VS Code · Postman · Codex · Claude · ChatGPT
-
-**Design:** Figma · Canva
-
----
-
-## 📌 Pinned
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 Sistema CRUD de Vendas
-Sistema de vendas e operações desenvolvido para gerenciamento de produtos e processos comerciais.
-
-**JavaScript · APIs · CRUD**
-
-</td>
-<td width="50%" valign="top">
-
-### 🌾 CRUD Vendas Agro
-Aplicação desenvolvida para o contexto de vendas e operações do agronegócio.
-
-**JavaScript · CRUD · Sistemas Web**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Painel de Administração de Dashboard
-Dashboard administrativo para visualização e gerenciamento de informações.
-
-**Frontend · Dashboard · Interface**
-
-</td>
-<td width="50%" valign="top">
-
-### 🎮 GAMBLITZ
-Projeto de desenvolvimento web focado em experiência, interface e interatividade.
-
-**JavaScript · Web · UI**
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-**[→ Ver todos os meus projetos](https://github.com/theamandamarques?tab=repositories)**
+<img src="https://skillicons.dev/icons?i=openai,claude,meta" />
 
 </div>
+

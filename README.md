@@ -10,17 +10,24 @@
 
 ## 👋 Oi, eu sou a Amanda
 
-Desenvolvedora de software apaixonada por **tecnologia, criação e resolução de problemas**.
+<table>
+<tr>
+<td width="70%" valign="middle">
 
-Atuo no desenvolvimento de aplicações e sistemas, transitando entre **frontend, backend, APIs, bancos de dados, automações e integrações**.
+Sou **formada em Análise e Desenvolvimento de Sistemas** e atualmente estou me formando em **Engenharia de Software**.
 
-Gosto de transformar ideias em produtos funcionais e explorar novas tecnologias para construir soluções melhores.
+Atuo na área de **Desenvolvimento de Software**, trabalhando na construção de aplicações, sistemas, APIs, integrações e automações.
 
-<div align="center">
+Tenho interesse em unir **tecnologia, engenharia e criatividade** para transformar ideias em soluções funcionais, bem estruturadas e escaláveis.
 
-<img src="./assets/download (5).jpeg" width="210" alt="Saturno" />
+</td>
+<td width="30%" align="center" valign="middle">
 
-</div>
+<img src="./assets/download (5).jpeg" width="190" alt="Saturno" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -28,94 +35,73 @@ Gosto de transformar ideias em produtos funcionais e explorar novas tecnologias 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css,nodejs,nestjs,mysql,postgres,supabase,docker,git,github,vscode,postman,linux" />
+<img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css,nodejs,nestjs,express,mysql,postgres,supabase,docker,git,github,vscode,postman,linux,figma" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=n8n" />
 
 </div>
 
-### Frontend
-Angular · React · TypeScript · JavaScript · HTML5 · CSS3
+**Frontend:** Angular · React · TypeScript · JavaScript · HTML5 · CSS3
 
-### Backend
-Node.js · NestJS · Express · TypeORM · APIs REST
+**Backend:** Node.js · NestJS · Express · TypeORM · APIs REST
 
-### Banco de Dados
-MySQL · PostgreSQL · Supabase
+**Banco de Dados:** MySQL · PostgreSQL · Supabase
 
-### Integrações & Automação
-N8N · Webhooks · Evolution API · Bling API · Moskit CRM · Google Sheets
+**Automação & Integrações:** N8N · Webhooks · Evolution API · Bling API · Moskit CRM · Google Sheets
 
-### Infraestrutura
-Docker · Linux · Ubuntu · VPS · pfSense · OpenVPN · RDP · Nginx · Shell
+**Infraestrutura:** Docker · Linux · Ubuntu · VPS · pfSense · OpenVPN · RDP · Nginx · Shell
 
-### Dev Tools & IA
-Git · GitHub · VS Code · Postman · Codex · Claude · ChatGPT
+**Ferramentas & IA:** Git · GitHub · VS Code · Postman · Codex · Claude · ChatGPT
 
-### Design & Produto
-Figma · Canva
+**Design:** Figma · Canva
 
 ---
 
-## 🚀 Projetos
-
-<div align="center">
+## 📌 Pinned
 
 <table>
 <tr>
-<td width="50%">
-<a href="https://github.com/theamandamarques/sistema-crud-vendas">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=theamandamarques&repo=sistema-crud-vendas&theme=github_dark&hide_border=true" width="100%" alt="Sistema CRUD de Vendas" />
-</a>
+<td width="50%" valign="top">
+
+### 🛒 Sistema CRUD de Vendas
+Sistema de vendas e operações desenvolvido para gerenciamento de produtos e processos comerciais.
+
+**JavaScript · APIs · CRUD**
+
 </td>
-<td width="50%">
-<a href="https://github.com/theamandamarques/crud-vendas-agro">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=theamandamarques&repo=crud-vendas-agro&theme=github_dark&hide_border=true" width="100%" alt="CRUD Vendas Agro" />
-</a>
+<td width="50%" valign="top">
+
+### 🌾 CRUD Vendas Agro
+Aplicação desenvolvida para o contexto de vendas e operações do agronegócio.
+
+**JavaScript · CRUD · Sistemas Web**
+
 </td>
 </tr>
 <tr>
-<td width="50%">
-<a href="https://github.com/theamandamarques/Painel-de-Administra-o-de-Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=theamandamarques&repo=Painel-de-Administra-o-de-Dashboard&theme=github_dark&hide_border=true" width="100%" alt="Painel de Administração de Dashboard" />
-</a>
+<td width="50%" valign="top">
+
+### 📊 Painel de Administração de Dashboard
+Dashboard administrativo para visualização e gerenciamento de informações.
+
+**Frontend · Dashboard · Interface**
+
 </td>
-<td width="50%">
-<a href="https://github.com/theamandamarques/GAMBLITZ">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=theamandamarques&repo=GAMBLITZ&theme=github_dark&hide_border=true" width="100%" alt="GAMBLITZ" />
-</a>
+<td width="50%" valign="top">
+
+### 🎮 GAMBLITZ
+Projeto de desenvolvimento web focado em experiência, interface e interatividade.
+
+**JavaScript · Web · UI**
+
 </td>
 </tr>
 </table>
 
-**[→ Ver todos os projetos no GitHub](https://github.com/theamandamarques?tab=repositories)**
-
-</div>
-
----
-
-## 🔌 Integrações & Sistemas
-
-Gosto especialmente de fazer sistemas diferentes conversarem entre si:
-
-```text
-API → Webhook → N8N → Sistema → Banco de Dados → Dashboard
-```
-
-Experiência com **APIs REST, autenticação, tokens, transformação de dados, webhooks, automações e integrações entre sistemas**.
-
----
-
-## 🌱 Atualmente
-
-- 💻 Aprofundando **Engenharia de Software e Arquitetura**
-- ⚡ Desenvolvendo com **Angular, React, TypeScript e JavaScript**
-- 🔧 Trabalhando com **Node.js, NestJS, APIs e integrações**
-- 🔌 Explorando **automação, infraestrutura e cloud**
-- 🤖 Evoluindo meu uso de **IA no desenvolvimento**
-
----
-
 <div align="center">
 
-### ✦ construir · aprender · experimentar · melhorar ✦
+**[→ Ver todos os meus projetos](https://github.com/theamandamarques?tab=repositories)**
 
 </div>

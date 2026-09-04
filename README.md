@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/download (2).jpeg" width="100%" alt="Amanda Marques" />
+<img src="./assets/download (2).jpeg" height="360" alt="Amanda Marques" />
 
 ### Desenvolvedora de Software · Full-Stack · Tecnologia & Criatividade
 

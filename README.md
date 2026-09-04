@@ -10,17 +10,24 @@
 
 ## 👋 Oi, eu sou a Amanda
 
+<table>
+<tr>
+<td width="68%" valign="top">
+
 Sou desenvolvedora de software e gosto de trabalhar em diferentes partes de um sistema — **interfaces, APIs, bancos de dados, integrações, automações e infraestrutura**.
 
 Minha experiência vai muito além de uma única stack. Já trabalhei e estudo tecnologias como **Angular, React, JavaScript, TypeScript, Node.js, NestJS, TypeORM, MySQL, PostgreSQL, Supabase, Docker, N8N, APIs REST, Webhooks e ambientes Linux/VPS**.
 
 Também utilizo **Codex, Claude e ChatGPT** no meu processo de desenvolvimento para pesquisar, depurar, prototipar, refatorar e explorar soluções.
 
-<div align="center">
+</td>
+<td width="32%" align="center" valign="middle">
 
-<img src="./assets/download (5).jpeg" width="180" alt="Saturno" />
+<img src="./assets/download (5).jpeg" width="210" alt="Saturno" />
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 

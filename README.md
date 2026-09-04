@@ -6,7 +6,7 @@
 
 </div>
 
-<br>
+---
 
 ## 👋 Oi, eu sou a Amanda
 
@@ -18,92 +18,70 @@ Também utilizo **Codex, Claude e ChatGPT** no meu processo de desenvolvimento p
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css,nodejs,nestjs,mysql,postgres,supabase,docker,git,github,vscode,postman,linux" />
 
-<br><br>
-
-**Também:** TypeORM · N8N · Evolution API · Webhooks · REST · VPS · Ubuntu · pfSense · OpenVPN · RDP · Figma · Canva · Codex · Claude · ChatGPT
-
 </div>
+
+### Frontend
+Angular · React · TypeScript · JavaScript · HTML5 · CSS3
+
+### Backend
+Node.js · NestJS · Express · TypeORM · APIs REST
+
+### Banco de Dados
+MySQL · PostgreSQL · Supabase
+
+### Integrações & Automação
+N8N · Webhooks · Evolution API · Bling API · Moskit CRM · Google Sheets
+
+### Infraestrutura
+Docker · Linux · Ubuntu · VPS · pfSense · OpenVPN · RDP · Nginx · Shell
+
+### Dev Tools & IA
+Git · GitHub · VS Code · Postman · Codex · Claude · ChatGPT
+
+### Design & Produto
+Figma · Canva
 
 ---
 
-## 🚀 O que eu faço
-
 <div align="center">
 
-| 💻 Desenvolvimento | 🔌 Integrações | ⚡ Automação |
-|:---:|:---:|:---:|
-| Aplicações Web | APIs REST | N8N |
-| Angular / React | Webhooks | Fluxos automatizados |
-| Node / NestJS | Sistemas externos | Processos de negócio |
+<img src="https://w0.peakpx.com/wallpaper/116/452/HD-wallpaper-pink-earth-fluid-galaxy-geoglyser-beautiful-blue-cosmo-cosmos-dreamy-green-orange-planet-planet-earth-solar-system-space-stars.jpg" width="48%" alt="Galáxia colorida" />
+<img src="https://wallpaperbat.com/img/109958609-galaxy-ai.jpg" width="48%" alt="Galáxia psicodélica" />
 
 </div>
-
-Um dos tipos de problema que mais gosto de resolver é fazer diferentes sistemas conversarem entre si:
-
-```text
-API → Webhook → Automação → Sistema → Banco de Dados → Dashboard
-```
 
 ---
 
 ## 📌 Projetos
 
-<div align="center">
+- 🚀 **Valinor** — aplicação web
+- 🛒 **Sistema CRUD de Vendas** — sistema de vendas e operações
+- 🌾 **CRUD Vendas Agro** — aplicação voltada ao contexto agro
+- 📊 **Painel de Administração de Dashboard** — dashboard administrativo
+- ⚡ **Landing Page da Raiden Shogun** — front-end e interface
+- 🧠 **Memory Game** — JavaScript e lógica
+- 🎛️ **CircleMenu** — componente interativo
+- 🕐 **Clock Interactive** — experiência web interativa
 
-<a href="https://github.com/theamandamarques/valinor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=theamandamarques&repo=valinor&theme=transparent&hide_border=true" />
-</a>
-
-<a href="https://github.com/theamandamarques/sistema-crud-vendas">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=theamandamarques&repo=sistema-crud-vendas&theme=transparent&hide_border=true" />
-</a>
-
-<a href="https://github.com/theamandamarques/crud-vendas-agro">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=theamandamarques&repo=crud-vendas-agro&theme=transparent&hide_border=true" />
-</a>
-
-<a href="https://github.com/theamandamarques/Painel-de-Administra-o-de-Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=theamandamarques&repo=Painel-de-Administra-o-de-Dashboard&theme=transparent&hide_border=true" />
-</a>
-
-</div>
-
-<div align="center">
-
-[**Ver todos os projetos →**](https://github.com/theamandamarques?tab=repositories)
-
-</div>
+[**→ Ver todos os projetos**](https://github.com/theamandamarques?tab=repositories)
 
 ---
 
-## 🏆 Conquistas
+## 🔌 Integrações & Sistemas
 
-<div align="center">
+Uma das áreas que mais gosto é fazer sistemas diferentes conversarem entre si:
 
-<img src="https://github-profile-trophy.vercel.app/?username=theamandamarques&theme=flat&no-bg=true&no-frame=true&margin-w=8&column=6" width="90%" />
+```text
+API → Webhook → N8N → Sistema → Banco de Dados → Dashboard
+```
 
-</div>
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=theamandamarques&show_icons=true&hide_border=true&theme=transparent" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theamandamarques&layout=compact&hide_border=true&theme=transparent" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=theamandamarques&hide_border=true&theme=transparent" />
-
-</div>
+Experiência prática com integrações, autenticação, tokens, transformação de dados, webhooks, automações e resolução de problemas em APIs.
 
 ---
 
@@ -112,8 +90,8 @@ API → Webhook → Automação → Sistema → Banco de Dados → Dashboard
 - 💻 Aprofundando **Engenharia de Software e Arquitetura**
 - ⚡ Desenvolvendo com **Angular, React, TypeScript e JavaScript**
 - 🔧 Trabalhando com **Node.js, NestJS, APIs e integrações**
-- 🔌 Explorando cada vez mais **automação e infraestrutura**
-- 🤖 Usando **IA como ferramenta de desenvolvimento** com Codex, Claude e ChatGPT
+- 🔌 Explorando **automação, infraestrutura e cloud**
+- 🤖 Evoluindo meu uso de **IA no desenvolvimento** com Codex, Claude e ChatGPT
 
 ---
 

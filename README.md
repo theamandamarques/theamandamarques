@@ -1,66 +1,88 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Amanda Marques — Software Developer" />
+<img src="./assets/banner.svg" width="100%" alt="Amanda Marques" />
+
+### Desenvolvedora de Software · Full-Stack · Tecnologia & Criatividade
+
+</div>
 
 <br>
 
-### Software Developer · Full-Stack · Technology & Creativity
+## 👋 Oi, eu sou a Amanda
 
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/theamandamarques)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+Sou desenvolvedora de software e gosto de trabalhar em diferentes partes de um sistema — **interfaces, APIs, bancos de dados, integrações, automações e infraestrutura**.
 
-</div>
+Minha experiência vai muito além de uma única stack. Já trabalhei e estudo tecnologias como **Angular, React, JavaScript, TypeScript, Node.js, NestJS, TypeORM, MySQL, PostgreSQL, Supabase, Docker, N8N, APIs REST, Webhooks e ambientes Linux/VPS**.
 
----
-
-## 👋 Hey, I'm Amanda
-
-I'm a software developer who enjoys working across the stack — from interfaces and APIs to databases, automation and infrastructure.
-
-My experience includes **Angular, React, TypeScript, JavaScript, Node.js, NestJS, REST APIs, MySQL, PostgreSQL, Supabase, Docker, N8N and cloud/VPS environments**.
-
-I also use **Codex, Claude and ChatGPT** as part of my development workflow for research, debugging, architecture, refactoring and prototyping.
+Também utilizo **Codex, Claude e ChatGPT** no meu processo de desenvolvimento para pesquisar, depurar, prototipar, refatorar e explorar soluções.
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css,nodejs,nestjs,mysql,postgres,supabase,docker,git,github,vscode,postman,linux" />
-
-</p>
-
-<p align="center">
-
-<b>Also:</b> TypeORM · N8N · Evolution API · Webhooks · REST APIs · VPS · Ubuntu · pfSense · OpenVPN · RDP · Figma · Canva · Codex · Claude · ChatGPT
-
-</p>
-
----
-
-## 🚀 What I Build
-
-**Web applications** · **APIs & integrations** · **Automation workflows** · **Dashboards** · **Business systems** · **Database solutions**
-
-A big part of my practical work is connecting systems:
-
-`API → Webhook → N8N → Business System → Database → Dashboard`
-
----
-
-## 📌 Featured Projects
+## 🛠️ Tecnologias
 
 <div align="center">
 
-<a href="https://github.com/theamandamarques/Valinor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=theamandamarques&repo=Valinor&theme=transparent&hide_border=true" /></a>
-<a href="https://github.com/theamandamarques"><img src="https://github-readme-stats.vercel.app/api/pin/?username=theamandamarques&repo=CRUD-Vendas&theme=transparent&hide_border=true" /></a>
+<img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css,nodejs,nestjs,mysql,postgres,supabase,docker,git,github,vscode,postman,linux" />
+
+<br><br>
+
+**Também:** TypeORM · N8N · Evolution API · Webhooks · REST · VPS · Ubuntu · pfSense · OpenVPN · RDP · Figma · Canva · Codex · Claude · ChatGPT
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🚀 O que eu faço
+
+<div align="center">
+
+| 💻 Desenvolvimento | 🔌 Integrações | ⚡ Automação |
+|:---:|:---:|:---:|
+| Aplicações Web | APIs REST | N8N |
+| Angular / React | Webhooks | Fluxos automatizados |
+| Node / NestJS | Sistemas externos | Processos de negócio |
+
+</div>
+
+Um dos tipos de problema que mais gosto de resolver é fazer diferentes sistemas conversarem entre si:
+
+```text
+API → Webhook → Automação → Sistema → Banco de Dados → Dashboard
+```
+
+---
+
+## 📌 Projetos
+
+<div align="center">
+
+<a href="https://github.com/theamandamarques/valinor">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=theamandamarques&repo=valinor&theme=transparent&hide_border=true" />
+</a>
+
+<a href="https://github.com/theamandamarques/sistema-crud-vendas">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=theamandamarques&repo=sistema-crud-vendas&theme=transparent&hide_border=true" />
+</a>
+
+<a href="https://github.com/theamandamarques/crud-vendas-agro">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=theamandamarques&repo=crud-vendas-agro&theme=transparent&hide_border=true" />
+</a>
+
+<a href="https://github.com/theamandamarques/Painel-de-Administra-o-de-Dashboard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=theamandamarques&repo=Painel-de-Administra-o-de-Dashboard&theme=transparent&hide_border=true" />
+</a>
+
+</div>
+
+<div align="center">
+
+[**Ver todos os projetos →**](https://github.com/theamandamarques?tab=repositories)
+
+</div>
+
+---
+
+## 🏆 Conquistas
 
 <div align="center">
 
@@ -85,17 +107,18 @@ A big part of my practical work is connecting systems:
 
 ---
 
-## 🌱 Currently
+## 🌱 Atualmente
 
-- Building with **Angular / React / TypeScript / JavaScript**
-- Working with **Node.js / NestJS / APIs / integrations**
-- Exploring **automation, infrastructure and AI-assisted development**
-- Deepening my knowledge of **Software Engineering & Architecture**
+- 💻 Aprofundando **Engenharia de Software e Arquitetura**
+- ⚡ Desenvolvendo com **Angular, React, TypeScript e JavaScript**
+- 🔧 Trabalhando com **Node.js, NestJS, APIs e integrações**
+- 🔌 Explorando cada vez mais **automação e infraestrutura**
+- 🤖 Usando **IA como ferramenta de desenvolvimento** com Codex, Claude e ChatGPT
 
 ---
 
 <div align="center">
 
-### ✦ Build. Learn. Improve. ✦
+### ✦ construir · aprender · experimentar · melhorar ✦
 
 </div>

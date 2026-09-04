@@ -1,19 +1,30 @@
-<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360">
 <defs>
-  <rect id="bgRect" width="1200" height="360" rx="18"/>
-  <radialGradient id="space" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(610 170) rotate(90) scale(310 720)"><stop stop-color="#11131C"/><stop offset="1" stop-color="#020204"/></radialGradient>
-  <linearGradient id="rainbow" x1="80" y1="70" x2="1110" y2="290" gradientUnits="userSpaceOnUse"><stop stop-color="#FF2A2A"/><stop offset=".18" stop-color="#FF8A00"/><stop offset=".36" stop-color="#FFE600"/><stop offset=".52" stop-color="#20E0A0"/><stop offset=".68" stop-color="#22A7FF"/><stop offset=".84" stop-color="#743BFF"/><stop offset="1" stop-color="#FF2AA9"/></linearGradient>
-  <linearGradient id="rainbow2" x1="50" y1="290" x2="1150" y2="30" gradientUnits="userSpaceOnUse"><stop stop-color="#743BFF"/><stop offset=".2" stop-color="#22A7FF"/><stop offset=".4" stop-color="#20E0A0"/><stop offset=".6" stop-color="#FFE600"/><stop offset=".8" stop-color="#FF5A00"/><stop offset="1" stop-color="#FF2AA9"/></linearGradient>
-  <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="10"/></filter>
-  <filter id="soft" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="2"/></filter>
+  <radialGradient id="bg"><stop offset="0" stop-color="#17151f"/><stop offset="1" stop-color="#020204"/></radialGradient>
+  <linearGradient id="fluidA" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#ff174f"/><stop offset=".18" stop-color="#ff7a00"/><stop offset=".34" stop-color="#ffe600"/><stop offset=".52" stop-color="#35e56b"/><stop offset=".7" stop-color="#00b9ff"/><stop offset=".86" stop-color="#713cff"/><stop offset="1" stop-color="#ff28d7"/>
+  </linearGradient>
+  <linearGradient id="fluidB" x1="0" y1="1" x2="1" y2="0">
+    <stop stop-color="#ff2b8a"/><stop offset=".2" stop-color="#ff4b00"/><stop offset=".4" stop-color="#ffe600"/><stop offset=".58" stop-color="#26e879"/><stop offset=".76" stop-color="#00bfff"/><stop offset="1" stop-color="#8a36ff"/>
+  </linearGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="16"/></filter>
+  <filter id="glow"><feGaussianBlur stdDeviation="5"/></filter>
 </defs>
-<use href="#bgRect" fill="url(#space)"/>
-<!-- colorful fluid space ribbons -->
-<path d="M-80 265 C 80 80, 170 95, 300 220 S 510 345, 650 205 S 865 45, 1030 155 S 1170 280, 1280 85" stroke="url(#rainbow)" stroke-width="38" opacity=".24" filter="url(#glow)"/>
-<path d="M-80 265 C 80 80, 170 95, 300 220 S 510 345, 650 205 S 865 45, 1030 155 S 1170 280, 1280 85" stroke="url(#rainbow)" stroke-width="15" opacity=".88"/>
-<path d="M-90 225 C 70 35, 210 120, 335 205 S 530 320, 690 180 S 860 25, 1010 115 S 1170 225, 1290 50" stroke="url(#rainbow2)" stroke-width="7" opacity=".82"/>
-<path d="M-80 305 C 120 155, 220 180, 360 275 S 570 330, 710 235 S 890 95, 1040 190 S 1180 300, 1280 160" stroke="url(#rainbow2)" stroke-width="4" opacity=".7" filter="url(#soft)"/>
-<!-- stars -->
-<g fill="#fff" opacity=".9"><circle cx="82" cy="58" r="2"/><circle cx="170" cy="245" r="1.5"/><circle cx="274" cy="74" r="1.2"/><circle cx="420" cy="48" r="1.7"/><circle cx="548" cy="286" r="1.3"/><circle cx="680" cy="70" r="1.5"/><circle cx="780" cy="270" r="1.2"/><circle cx="905" cy="52" r="1.8"/><circle cx="1090" cy="220" r="1.4"/><circle cx="1140" cy="72" r="1.1"/></g>
-<g fill="#fff" opacity=".55"><circle cx="120" cy="145" r="1"/><circle cx="350" cy="300" r="1"/><circle cx="610" cy="110" r="1"/><circle cx="835" cy="145" r="1"/><circle cx="1015" cy="300" r="1"/></g>
+<rect width="1200" height="360" fill="url(#bg)"/>
+<!-- broad liquid fields -->
+<path d="M-120 55 C70 150 105 10 245 72 C390 136 405 330 570 275 C730 222 755 35 925 78 C1080 116 1100 250 1320 170 L1320 380 L-120 380Z" fill="url(#fluidA)" opacity=".38" filter="url(#blur)"/>
+<path d="M-120 300 C45 170 115 325 270 245 C410 174 470 38 620 98 C775 160 770 330 930 285 C1080 245 1125 90 1320 115 L1320 380 L-120 380Z" fill="url(#fluidB)" opacity=".3" filter="url(#blur)"/>
+<!-- flowing neon ribbons -->
+<g fill="none" stroke-linecap="round">
+ <path d="M-100 85 C75 180 120 20 260 92 C405 167 430 325 585 268 C745 208 760 42 930 88 C1080 130 1125 250 1300 165" stroke="url(#fluidA)" stroke-width="34" opacity=".9"/>
+ <path d="M-110 285 C55 170 125 315 275 238 C425 160 470 45 625 105 C780 165 780 320 940 278 C1085 240 1140 92 1310 120" stroke="url(#fluidB)" stroke-width="25" opacity=".88"/>
+ <path d="M-100 105 C80 195 125 45 265 108 C405 172 435 305 585 250 C745 192 770 60 930 105 C1080 148 1130 265 1300 180" stroke="#ff3bce" stroke-width="6" opacity=".75"/>
+ <path d="M-100 265 C60 165 130 300 275 225 C420 150 475 62 625 120 C775 178 790 300 940 260 C1080 225 1145 105 1300 135" stroke="#00e5ff" stroke-width="5" opacity=".8"/>
+ <path d="M-80 125 C90 205 135 72 270 125 C415 182 445 285 590 235 C745 180 785 78 925 120 C1080 165 1140 275 1280 195" stroke="#fff" stroke-width="1.5" opacity=".28"/>
+</g>
+<!-- star field -->
+<g fill="#fff">
+ <circle cx="70" cy="45" r="1.8"/><circle cx="150" cy="315" r="1.2"/><circle cx="205" cy="70" r="1.5"/><circle cx="330" cy="42" r="1.2"/><circle cx="470" cy="315" r="1.7"/><circle cx="535" cy="55" r="1.3"/><circle cx="670" cy="315" r="1.2"/><circle cx="735" cy="48" r="1.6"/><circle cx="855" cy="285" r="1.2"/><circle cx="980" cy="45" r="1.5"/><circle cx="1100" cy="305" r="1.8"/><circle cx="1170" cy="65" r="1.2"/>
+</g>
+<g fill="#fff" opacity=".5"><circle cx="115" cy="155" r=".9"/><circle cx="385" cy="100" r="1"/><circle cx="620" cy="165" r=".8"/><circle cx="815" cy="130" r="1"/><circle cx="1040" cy="175" r=".9"/></g>
 </svg>

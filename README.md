@@ -16,6 +16,12 @@ Minha experiência vai muito além de uma única stack. Já trabalhei e estudo t
 
 Também utilizo **Codex, Claude e ChatGPT** no meu processo de desenvolvimento para pesquisar, depurar, prototipar, refatorar e explorar soluções.
 
+<div align="center">
+
+<img src="./assets/download (5).jpeg" width="180" alt="Saturno" />
+
+</div>
+
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
